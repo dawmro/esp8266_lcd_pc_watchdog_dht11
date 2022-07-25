@@ -15,9 +15,15 @@ Based on esp8266 module, 2004LCD display and dht11 sensor.
 ## Bill of Materials
 
 1x ESP8266 WeMos D1 mini ESP-12F WiFi
+
 1x 2004 lcd + i2c
+
 1x dht11 temperature and humidity sensor
+
 1x pc817
+
 1x 390 ohm resistor
+
 1x 10k resistor
+
 1x some wires
