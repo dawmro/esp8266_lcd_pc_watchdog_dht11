@@ -6,6 +6,11 @@ Based on esp8266 module, 2004LCD display and dht11 sensor.
 
 ![alt text](https://github.com/dawmro/esp8266_lcd_pc_watchdog_dht11/blob/main/images/3_displaying_data.png?raw=true)
 
+
+## Schematic
+![alt text](https://github.com/dawmro/esp8266_lcd_pc_watchdog_dht11/blob/main/schematic/schematic_esp8266_lcd_pc_watchdog_dht11.PNG?raw=true)
+
+
 ## Usage
 
 1. Assemble hardware
