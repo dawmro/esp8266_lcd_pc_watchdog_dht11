@@ -1,8 +1,14 @@
 # esp8266_lcd_pc_watchdog_dht11
-PC hardware watchdog with LCD display and atmospheric parameters reading capability
+PC hardware watchdog with LCD display and atmospheric parameters reading capability. Based on esp8266 module, 2004LCD display and dht11 sensor.
 
-Hardware PC watchdog module with temperature, humidity sensor and integrated 20x4 LCD display. Able to restart frozen PC, receive and send data to and from PC, display data on LCD display.
-Based on esp8266 module, 2004LCD display and dht11 sensor.
+- Hardware PC watchdog
+- Reads temperature and humidity 
+- Integrated 20x4 LCD display
+- Restarts frozen PC
+- Receives data from PC
+- Sends data to PC 
+- Shows data on LCD display.
+
 
 ![alt text](https://github.com/dawmro/esp8266_lcd_pc_watchdog_dht11/blob/main/images/3_displaying_data.png?raw=true)
 
